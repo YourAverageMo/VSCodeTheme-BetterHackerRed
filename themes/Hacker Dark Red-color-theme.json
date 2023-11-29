@@ -158,7 +158,7 @@
 		"activityBarBadge.background": "#ff5353",
 		"activityBar.border": "#00000000",
 		"activityBar.activeBackground": "#00000000",
-		"sideBar.background": "#000000",
+		// "sideBar.background": "#000000",
 		"sideBar.foreground": "#ff5a5a",
 		"sideBarSectionHeader.background": "#00000000",
 		"sideBarSectionHeader.foreground": "#ff5a5a",
@@ -406,6 +406,9 @@
 		// Start my own colors
 		// note you may need to uncomment corresponding value above
 		//
+		"sideBar.background": "#0c0c0c",
+		
+		// End my own colors
 		
 	},
 	"tokenColors": [
