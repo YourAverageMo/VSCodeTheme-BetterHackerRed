@@ -3,6 +3,7 @@
   "displayName": "Hacker Dark Red",
   "description": "Liked the hacker red theme on vscode marketplace but the syntax colors were hard to make out over time. so im making this theme which keeps the same colors from hacker red but uses the default modern dark theme syntax colors.",
   "version": "0.0.1",
+  "publisher": "YouSame",
   "engines": {
     "vscode": "^1.84.0"
   },
