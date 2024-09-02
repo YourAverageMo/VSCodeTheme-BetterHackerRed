@@ -143,7 +143,6 @@
 		"welcomePage.progress.foreground": "#0078D4",
 		"widget.border": "#313131",
 		// End dark_modern
-		
 		//
 		// Start hacker_red
 		//
@@ -213,7 +212,7 @@
 		"button.secondaryBackground": "#ff5353b7",
 		"button.secondaryHoverBackground": "#ff0000b7",
 		// TODO: change input bg to match other blacks
-		"input.background": "#000000", 
+		"input.background": "#000000",
 		"input.border": "#12121200",
 		"input.foreground": "#cccccc",
 		"inputOption.activeBackground": "#ff000034",
@@ -404,9 +403,8 @@
 		"debugExceptionWidget.background": "#121212",
 		"debugExceptionWidget.border": "#121212",
 		// End hacker_red
-
-		
 	},
+	// Below is default vscode token colors. DO NOT EDIT.
 	"tokenColors": [
 		{
 			"scope": [
@@ -968,10 +966,10 @@
 	//
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
-		"newOperator":"#C586C0",
-		"stringLiteral":"#ce9178",
+		"newOperator": "#C586C0",
+		"stringLiteral": "#ce9178",
 		"customLiteral": "#DCDCAA",
 		"numberLiteral": "#b5cea8",
-	// End dark_plus
+		// End dark_plus
 	}
 }
