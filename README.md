@@ -1,5 +1,22 @@
-# VSCodeTheme-BetterHackerRed
-Liked the hacker red theme on vscode marketplace but the syntax colors were hard to make out over time. so im making this theme which keeps the same colors from hacker red but uses the default modern dark theme syntax colors.
+# Summary 
+A custom modern dark red theme for VSCode. Synthwave inspired design thats built off of the default VSCode modern dark theme in order to not sacrifice syntax color tokens.
 
-to install locally copy VSCODETHEME-HACKERDARKRED folder into .vscode/extensions > then apply it under theme selection in vscode.
- - UPDATE: this theme was made on MacOS which seems to cause problems when coping over this extension to a windows machine. So i made a VSIX prepackaged vscode extension file (called HDR-0.0.1.vsix). To install this just go to extensions on vscode ≥ click the 3 dots > install from VSIX...
+# Preview
+
+![Preview1](readme_assets/Preview1.png)
+
+![Preview2](readme_assets/Preview2.png)
+
+# Installation
+
+If you want this them for yourself you can either download the latest build and install it manually in VSCode or fork this repo and compile it using the vsce package
+
+```
+npm install -g vsce
+```
+
+Navigate to your theme directory in the terminal and run:
+```
+vsce package
+```
+then install the extension manually in VSCode

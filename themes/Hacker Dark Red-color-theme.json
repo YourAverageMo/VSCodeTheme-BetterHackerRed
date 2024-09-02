@@ -211,8 +211,7 @@
 		"button.secondaryForeground": "#ffffff",
 		"button.secondaryBackground": "#ff5353b7",
 		"button.secondaryHoverBackground": "#ff0000b7",
-		// TODO: change input bg to match other blacks
-		"input.background": "#000000",
+		"input.background": "#313131",
 		"input.border": "#12121200",
 		"input.foreground": "#cccccc",
 		"inputOption.activeBackground": "#ff000034",
