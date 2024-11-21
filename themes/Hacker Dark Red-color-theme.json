@@ -432,10 +432,17 @@
 				"foreground": "#000080"
 			}
 		},
+		// --- ORIGINAL
+		// {
+		// 	"scope": "comment",
+		// 	"settings": {
+		// 		"foreground": "#6A9955"
+		// 	}
+		// },
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#6A9955"
+				"foreground": "#7a7a7a"
 			}
 		},
 		{
