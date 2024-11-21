@@ -635,13 +635,23 @@
 				"foreground": "#569cd6"
 			}
 		},
+		// --- ORIGINAL
+		// {
+		// 	"scope": [
+		// 		"string",
+		// 		"meta.embedded.assembly"
+		// 	],
+		// 	"settings": {
+		// 		"foreground": "#ce9178"
+		// 	}
+		// },
 		{
 			"scope": [
 				"string",
 				"meta.embedded.assembly"
 			],
 			"settings": {
-				"foreground": "#ce9178"
+				"foreground": "#AAD94C"
 			}
 		},
 		{
