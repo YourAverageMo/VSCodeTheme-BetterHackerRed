@@ -2,8 +2,8 @@
   "name": "HDR",
   "displayName": "Hacker Dark Red",
   "description": "A custom modern dark red theme for VSCode. Synthwave inspired design thats built off of the default VSCode modern dark theme in order to not sacrifice syntax color tokens.",
-  "version": "0.0.3",
-  "publisher": "YouSame",
+  "version": "0.0.4",
+  "publisher": "Muhammed Yilmaz",
   "engines": {
     "vscode": "^1.84.0"
   },
